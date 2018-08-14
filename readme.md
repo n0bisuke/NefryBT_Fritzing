@@ -5,6 +5,8 @@ Nefry BTのFritzingパーツデータです。
 
 `NefryBT_R3.fzpz`をダウンロードして使って下さい。
 
+* [Download](https://github.com/n0bisuke/NefryBT_Fritzing/raw/master/NefryBT_R3.fzpz)
+
 ## Nefry BT
 
 * [Nefry BT](https://dotstud.io/docs/nefrybt/)
